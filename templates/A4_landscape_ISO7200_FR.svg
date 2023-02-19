@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     style="stroke-width:0.5;stroke-dasharray:none">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.501261;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1298"
+       width="284.49875"
+       height="197.49873"
+       x="6.2506304"
+       y="6.2506304" />
+  </g>
+  <g
+     id="g1254">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.423773;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1903"
+       width="179.57622"
+       height="48.576229"
+       x="111.2119"
+       y="155.21188" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.248924;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1912"
+       width="29.751076"
+       height="13.751076"
+       x="111.2119"
+       y="155.21188" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.251605;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1912-36"
+       width="30.404036"
+       height="13.747211"
+       x="260.38406"
+       y="155.25923" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.271095;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1912-2"
+       width="69.728905"
+       height="20.445778"
+       x="140.93549"
+       y="168.97311" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1912-6"
+       width="149.82518"
+       height="13.751076"
+       x="140.96298"
+       y="155.21188" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.248924;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1912-3"
+       width="29.751076"
+       height="13.751076"
+       x="111.17426"
+       y="175.67798" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.247;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1912-5"
+       width="29.752649"
+       height="6.7526498"
+       x="111.21033"
+       y="168.96295" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.254162;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1912-5-7"
+       width="15.186837"
+       height="21.43741"
+       x="260.41541"
+       y="182.40585" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.254162;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1912-5-7-6"
+       width="15.186837"
+       height="21.43741"
+       x="275.60223"
+       y="182.40585" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1912-5-9"
+       width="49.682491"
+       height="6.6821404"
+       x="210.69965"
+       y="169.00836" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1912-5-9-1"
+       width="49.682491"
+       height="6.6821404"
+       x="210.69965"
+       y="175.69049" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.250494;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1912-5-9-1-2"
+       width="49.682507"
+       height="21.345158"
+       x="210.69965"
+       y="182.37265" />
+    <g
+       id="g3273_EU"
+       transform="matrix(0.93749997,0,0,0.93749997,-110.66894,-64.477731)"
+       style="stroke-width:0.5;stroke-dasharray:none">
+      <path
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:0.349867;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 242,263.5 h 21"
+         id="path134-1" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.349867;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0"
+         d="M 257.5,269 V 258"
+         id="path136-7" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter"
+         cx="257.5"
+         cy="263.5"
+         r="2"
+         id="circle146" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter"
+         cx="257.5"
+         cy="263.5"
+         r="4"
+         id="circle148" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter"
+         d="m 243.5,265.5 v -4"
+         id="path138-4" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter"
+         d="m 243.5,261.5 8,-2"
+         id="path140-0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter"
+         d="m 251.5,259.5 v 8"
+         id="path142-9" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter"
+         d="m 251.5,267.5 -8,-2"
+         id="path144-4" />
+    </g>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:6.62752px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0828444;stroke-dasharray:none"
+       x="271.51431"
+       y="179.81299"
+       id="text2557"><tspan
+         style="display:inline;stroke-width:0.0828444"
+         x="271.51431"
+         y="179.81299"
+         id="tspan2609">A4</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="269.3826"
+       y="172.46579"
+       id="text2643"><tspan
+         id="tspan2641"
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="269.3826"
+         y="172.46579">Format</tspan><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="269.3826"
+         y="176.87552"
+         id="tspan2645" /></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="112.93076"
+       y="173.58136"
+       id="text2643-2"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="112.93076"
+         y="173.58136"
+         id="tspan2645-3">Échelle :</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="212.11765"
+       y="173.93732"
+       id="text2643-2-4"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="212.11765"
+         y="173.93732"
+         id="tspan2645-3-7">Nom :</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="212.11765"
+       y="180.29236"
+       id="text2643-2-4-8"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="212.11765"
+         y="180.29236"
+         id="tspan2645-3-7-4">Date :</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="264.11899"
+       y="187.19705"
+       id="text2643-2-4-8-5"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="264.11899"
+         y="187.19705"
+         id="tspan2645-3-7-4-0">Rév.</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="278.75235"
+       y="187.4436"
+       id="text2643-2-4-8-5-3"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="278.75235"
+         y="187.4436"
+         id="tspan2645-3-7-4-0-6">Page</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="112.93076"
+       y="159.88345"
+       id="text2643-2-1"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="112.93076"
+         y="159.88345"
+         id="tspan2645-3-9">Matière :</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="113.39293"
+       y="194.29724"
+       id="text2643-2-1-4"
+       freecad:editable="Établissement"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="113.39293"
+         y="194.29724"
+         id="tspan2645-3-9-30">Établissement</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="112.93076"
+       y="165.98425"
+       id="text2643-2-1-5"
+       freecad:editable="Matière"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="112.93076"
+         y="165.98425"
+         id="tspan3223">N/A</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="166.10007"
+       y="160.05023"
+       id="text2643-2-1-5-6"
+       freecad:editable="Tolérances"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="166.10007"
+         y="160.05023"
+         id="tspan3223-5">N/A</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="224.04202"
+       y="173.93732"
+       id="text2643-2-1-5-6-3"
+       freecad:editable="Nom"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="224.04202"
+         y="173.93732"
+         id="tspan3223-5-7">N/A</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="265.30582"
+       y="194.66412"
+       id="text2643-2-1-5-6-3-2"
+       freecad:editable="Rév."><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="265.30582"
+         y="194.66412"
+         id="tspan3223-5-7-54">N/A</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="279.67407"
+       y="194.66412"
+       id="text2643-2-1-5-6-3-2-7"
+       freecad:editable="Page"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="279.67407"
+         y="194.66412"
+         id="tspan3223-5-7-54-4">N/A</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="224.17715"
+       y="180.62222"
+       id="text2643-2-1-5-6-3-4"
+       freecad:editable="Date"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="224.17715"
+         y="180.62222"
+         id="tspan3223-5-7-5">AAAA-MM-JJ</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="184.69336"
+       y="166.08252"
+       id="text2643-2-1-5-6-6"
+       freecad:editable="Traitement"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="184.69336"
+         y="166.08252"
+         id="tspan3223-5-9">N/A</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="129.49748"
+       y="173.44269"
+       id="text2643-2-1-5-4"
+       freecad:editable="Échelle"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="129.49748"
+         y="173.44269"
+         id="tspan3223-7">N/A</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="143.07797"
+       y="159.88345"
+       id="text2643-2-1-6"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="143.07797"
+         y="159.88345"
+         id="tspan2645-3-9-3">Tolérances :</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="143.07797"
+       y="165.77127"
+       id="text2643-2-1-6-2"><tspan
+         style="font-size:3.52778px;stroke-width:0.132292"
+         x="143.07797"
+         y="165.77127"
+         id="tspan2645-3-9-3-0">Traitement de surface :</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="143.71475"
+       y="180.74371"
+       id="text2680"
+       freecad:editable="Titre"
+       xml:space="default"><tspan
+         id="tspan2678"
+         style="font-size:5.64444px;stroke-width:0.132292"
+         x="143.71475"
+         y="180.74371">Titre</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="212.89658"
+       y="193.8429"
+       id="text2680-1"
+       freecad:editable="Numéro"><tspan
+         id="tspan2678-0"
+         style="font-size:4.93889px;stroke-width:0.132292"
+         x="212.89658"
+         y="193.8429">Numéro</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="261.21124"
+       y="158.5582"
+       id="text1787"
+       xml:space="default"><tspan
+         style="font-size:2.11667px;stroke-width:0.132292"
+         x="261.21124"
+         y="158.5582"
+         id="tspan1801">Ce plan est notre propriété,</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="261.24484"
+       y="167.59554"
+       id="text1787-3"><tspan
+         style="font-size:2.11667px;stroke-width:0.132292"
+         x="261.24484"
+         y="167.59554"
+         id="tspan1801-9">sans notre autorisation.</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="261.16733"
+       y="164.82692"
+       id="text1787-1"><tspan
+         style="font-size:2.11667px;stroke-width:0.132292"
+         x="261.16733"
+         y="164.82692"
+         id="tspan1801-93">ni diffusé</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none"
+       x="261.16733"
+       y="161.97356"
+       id="text1787-1-2"><tspan
+         style="font-size:2.11667px;stroke-width:0.132292"
+         x="261.16733"
+         y="161.97356"
+         id="tspan3712">il ne peut être reproduit,</tspan></text>
+  </g>
+</svg>
