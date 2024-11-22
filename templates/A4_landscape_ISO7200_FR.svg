@@ -231,7 +231,8 @@
        x="113.39293"
        y="194.29724"
        id="text2643-2-1-4"
-       freecad:editable="Établissement"><tspan
+       freecad:editable="Établissement"
+       freecad:autofill="organization"><tspan
          style="font-size:3.52778px;stroke-width:0.132292"
          x="113.39293"
          y="194.29724"
@@ -261,7 +262,8 @@
        x="224.04202"
        y="173.93732"
        id="text2643-2-1-5-6-3"
-       freecad:editable="Nom"><tspan
+       freecad:editable="Nom"
+       freecad:autofill="author"><tspan
          style="font-size:3.52778px;stroke-width:0.132292"
          x="224.04202"
          y="173.93732"
@@ -281,7 +283,8 @@
        x="279.67407"
        y="194.66412"
        id="text2643-2-1-5-6-3-2-7"
-       freecad:editable="Page"><tspan
+       freecad:editable="Page"
+       freecad:autofill="sheet"><tspan
          style="font-size:3.52778px;stroke-width:0.132292"
          x="279.67407"
          y="194.66412"
@@ -291,7 +294,8 @@
        x="224.17715"
        y="180.62222"
        id="text2643-2-1-5-6-3-4"
-       freecad:editable="Date"><tspan
+       freecad:editable="Date"
+       freecad:autofill="date"><tspan
          style="font-size:3.52778px;stroke-width:0.132292"
          x="224.17715"
          y="180.62222"
@@ -311,7 +315,8 @@
        x="129.49748"
        y="173.44269"
        id="text2643-2-1-5-4"
-       freecad:editable="Échelle"><tspan
+       freecad:editable="Échelle"
+       freecad:autofill="scale"><tspan
          style="font-size:3.52778px;stroke-width:0.132292"
          x="129.49748"
          y="173.44269"
@@ -340,6 +345,7 @@
        y="180.74371"
        id="text2680"
        freecad:editable="Titre"
+       freecad:autofill="title"
        xml:space="default"><tspan
          id="tspan2678"
          style="font-size:5.64444px;stroke-width:0.132292"
