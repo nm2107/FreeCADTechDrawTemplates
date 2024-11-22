@@ -276,7 +276,8 @@
        y="281.25909"
        id="text2643-2-1-4"
        inkscape:label="text_etablissement_ph"
-       freecad:editable="Établissement"><tspan
+       freecad:editable="Établissement"
+       freecad:autofill="organization"><tspan
          sodipodi:role="line"
          style="font-size:3.52778px;stroke-width:0.132292"
          x="236.35481"
@@ -312,7 +313,8 @@
        y="260.89917"
        id="text2643-2-1-5-6-3"
        inkscape:label="text_nom_ph"
-       freecad:editable="Nom"><tspan
+       freecad:editable="Nom"
+       freecad:autofill="author"><tspan
          sodipodi:role="line"
          style="font-size:3.52778px;stroke-width:0.132292"
          x="347.00391"
@@ -336,7 +338,8 @@
        y="281.62598"
        id="text2643-2-1-5-6-3-2-7"
        inkscape:label="text_page_ph"
-       freecad:editable="Page"><tspan
+       freecad:editable="Page"
+       freecad:autofill="sheet"><tspan
          sodipodi:role="line"
          style="font-size:3.52778px;stroke-width:0.132292"
          x="402.63596"
@@ -348,7 +351,8 @@
        y="267.58408"
        id="text2643-2-1-5-6-3-4"
        inkscape:label="text_date_ph"
-       freecad:editable="Date"><tspan
+       freecad:editable="Date"
+       freecad:autofill="date"><tspan
          sodipodi:role="line"
          style="font-size:3.52778px;stroke-width:0.132292"
          x="347.13904"
@@ -372,7 +376,8 @@
        y="260.40454"
        id="text2643-2-1-5-4"
        inkscape:label="text_echelle_ph"
-       freecad:editable="Échelle"><tspan
+       freecad:editable="Échelle"
+       freecad:autofill="scale"><tspan
          sodipodi:role="line"
          style="font-size:3.52778px;stroke-width:0.132292"
          x="252.45937"
@@ -405,6 +410,7 @@
        id="text2680"
        inkscape:label="text_titre_ph"
        freecad:editable="Titre"
+       freecad:autofill="title"
        xml:space="default"><tspan
          sodipodi:role="line"
          id="tspan2678"
